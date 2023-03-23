@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mapdata"]
+	path = mapdata
+	url = https://github.com/cran/mapdata
+	shallow = true
+	registered = true
+[submodule "mapproj"]
+	path = mapproj
+	url = https://github.com/cran/mapproj
+	shallow = true
+	registered = true
 [submodule "maps"]
 	path = maps
 	url = https://github.com/adeckmyn/maps
